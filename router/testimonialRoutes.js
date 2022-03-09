@@ -5,25 +5,25 @@ const app = express.Router();
 let testimonials=[
     { 
         id: 1,
-        img:"https://postimg.cc/qNZBK1ms",
+        img:"https://i.postimg.cc/ZKH8pwZ4/alex.jpg",
         title: "Alex Sexwale", 
         desc: " Lindokuhle Nkamela is dedicated like tackling all challenges presented to him, He has a bright future ahead of him "
     },
 
     { 
         id: 2,
-        img:"https://postimg.cc/bZvNd7RY",
+        img:"https://i.postimg.cc/d1Rkv0Vw/lilita.jpg",
         title: "Lilita Ngele", 
         desc: "hmmm.. well Lindokuhle is a helpful guy and extremely gentle and understanding.always willing to learn"
     },
     {   id: 3,
-        img:"https://postimg.cc/HVdL1ccy",
+        img:"https://i.postimg.cc/7hfk9Bcd/unathi.jpg",
         title: "Unathi Qolweni", 
         desc: "indokuhle  pays attention to improve the esthetics of the site as well as the functionality. Throughout the entire process he is responsive, and willing to work through issues as they arise. It’s obvious he takes tremendous pride in his work, and I wouldn’t hesitate to recommend or work with him again."
      },
      { 
         id: 4,
-        img:"https://postimg.cc/svmgjj70",
+        img:"https://i.postimg.cc/MTHNJnDj/Sindi.jpg",
         title: "Sindile Makhathini", 
         desc: "I met Lindokuhle at the Academy and i have observed that he is a quiet and hardworking individual.He is a goal-orientated person who strives to be the best that he can be"
      },
